@@ -1,0 +1,59 @@
+#root {
+
+  padding: 2rem;
+
+}
+body{
+  background: #ad5389;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #3c1053, #ad5389);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #3c1053, #ad5389); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+
+
+
+}
+@media screen and (max-width: 500px) {
+
+
+  #buttons {
+    width: 90%;
+    height: 8%;
+  }
+
+  #buttons :nth-child(1) {
+    width: 40%;
+    height: 90%;
+    font-size: 8px;
+    font-weight: bolder;
+  }
+
+  #buttons :nth-child(2) {
+    width: 100%;
+    font-size: 8px;
+    font-weight: bolder;
+    height: 90%;
+  }
+
+  #buttons :nth-child(3) {
+    width: 100%;
+    font-size: 8px;
+    height: 90%;
+    font-weight: bolder;
+  }
+
+  #buttons :nth-child(4) {
+    width: 40%;
+    font-size: 8px;
+    font-weight: bolder;
+    height: 90%;
+  }
+p{
+  font-size: 10.2px;
+}
+
+}
+
+#box{
+  
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+}
