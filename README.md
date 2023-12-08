@@ -1,9 +1,14 @@
 Step 1 :- Download the Code Zip Folder 📁
+
 Step 2 :- Extract the folders and files 
+
 Step 3 :- Open the main folder in vs code and Type command :-- npm run dev 
+
 Step 4 :- Click on the Link which will be visible after typing the above mentioned command 
 
+
 After these Steps the Project will be Live on Your Browser 🙂
+
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
